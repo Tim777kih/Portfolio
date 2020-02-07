@@ -1,0 +1,31 @@
+nav{
+    display: block;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#HOME{
+    width:50%;
+}
+#one{
+    float: right;
+    height: 200px;
+}
+#two{
+    float: left;
+    height: 50px;
+}
+#three{
+    float: left;
+    height: 50px;
+}
+.Ab{
+    background-color: teal;
+    margin-top: 40px;
+    padding: 80px;
+    margin-bottom: 100px;
+}
+
+
+
