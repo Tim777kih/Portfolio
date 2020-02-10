@@ -1,5 +1,7 @@
-nav{
+nav a{
     display: block;
+    margin-left: 14%;
+    font-size: x-large;
 }
 body{
     background-color: black;
@@ -25,6 +27,15 @@ body{
     margin-top: 40px;
     padding: 80px;
     margin-bottom: 100px;
+}
+#four{
+    height: 110px;
+}
+#five{
+    height: 90px;
+}
+#six{
+    height: 100px;
 }
 
 
