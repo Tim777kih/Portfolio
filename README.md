@@ -1,9 +1,9 @@
 # My portfolio
  This is my first portfolio
- ## languages used
+ ## Languages used
  HTML
  CSS
- ### Technical requirements
+ ## Technical requirements
  Any web browser but i would recommend google chrome
  #### Content information
  MIT License
@@ -23,3 +23,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+### Link to Github
+https://tim777kih.github.io/Portfolio/
