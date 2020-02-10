@@ -10,7 +10,7 @@ body{
  #HOME{
     width:50%;
 } 
-/* #one{
+ #one{
     float: right;
     height: 200px;
 }
@@ -21,13 +21,13 @@ body{
 #three{
     float: left;
     height: 50px;
-} */
-.Ab{
+} 
+/* .Ab{
     background-color: teal;
     margin-top: 40px;
     padding: 80px;
     margin-bottom: 100px;
-}
+} */
 #four{
     height: 110px;
 }
