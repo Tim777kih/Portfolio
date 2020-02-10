@@ -7,10 +7,10 @@ body{
     background-color: black;
     color: white;
 }
-/* #HOME{
+ #HOME{
     width:50%;
-} */
-#one{
+} 
+/* #one{
     float: right;
     height: 200px;
 }
@@ -21,7 +21,7 @@ body{
 #three{
     float: left;
     height: 50px;
-}
+} */
 .Ab{
     background-color: teal;
     margin-top: 40px;
